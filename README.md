@@ -2,8 +2,6 @@
     <h1>Welcome to my Profile!</h1>
 </div>"
 
-## So...
-
 > [!Important]
 > I'm happy to see you! 🤩
 
