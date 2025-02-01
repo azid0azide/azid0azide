@@ -12,8 +12,7 @@
 - 🌱 Currently learning Propulsion Systems and Molecular Modelling in C/C++...
 - 💞 I'm looking forward to collaborate on Chemical Physics & Plasma...
 - 📫 You can reach me on LinkedIn. _Press the link, will you?_
-- 😄 Pronouns: he/him...
-- ⚡ Fun Fact: I've cooked meth before. Also, built a Particle Accelerator out of an old radio and PVC piping. 
+- ⚡ Fun Fact: I'm an upcoming Chess player.
 
 > [!Note]
 > This is my Tech Stack.
